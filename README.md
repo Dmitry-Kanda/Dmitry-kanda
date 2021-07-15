@@ -1,3 +1,3 @@
-###  Hi my name is Dmitry I am backend developer 👋
+###  Hi my name is Dmitry 👋
 
 - 🌱 I’m software engineer
